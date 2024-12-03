@@ -1,4 +1,5 @@
-
+About the Author:
+Hi, I'm Vikash Kumar, a passionate data enthusiast currently pursuing my Master of Computer Applications (MCA) at DHSGSU. With a strong background in Mathematics and a keen interest in Data Science, I specialize in uncovering actionable insights from complex datasets. This project is a reflection of my skills in leveraging Python for data analysis and visualization. I aim to apply these skills to real-world business challenges and drive data-driven decision-making.
 # Customer and Sales Data Analysis Project
 
 ## Overview
