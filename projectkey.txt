@@ -1,0 +1,36 @@
+Key Analyses Completed:
+Sales Performance:
+
+Identified trends in sales over time and highlighted peak periods.
+Suggested actionable steps to optimize sales strategies.
+Top-Selling and Underperforming Products:
+
+Highlighted products driving the most and least revenue.
+Fulfillment Efficiency:
+
+Examined delivery time and customer satisfaction based on fulfillment methods.
+Suggested optimization opportunities in fulfillment processes.
+Order Status Insights:
+
+Analyzed cancellations, delays, and returns, providing insights into potential operational issues.
+Geographical Analysis:
+
+Identified regions with the highest and lowest sales contributions.
+Suggested expanding efforts in underperforming regions.
+Customer Segmentation:
+
+Segmented customers based on frequency and value.
+Highlighted high-value and frequent customers for targeted campaigns.
+Promotional Effectiveness:
+
+Evaluated the impact of promotions on conversion rates and sales increases.
+Inventory Management:
+
+Highlighted inefficiencies such as overstocked and out-of-stock products.
+Suggested optimizing stock levels based on demand patterns.
+Seasonality Analysis:
+
+Identified seasonal trends in sales to inform better inventory and marketing planning.
+Customer Satisfaction Trends:
+
+Explored the impact of delivery time and fulfillment methods on customer satisfaction.
